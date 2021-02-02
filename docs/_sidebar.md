@@ -1,2 +1,2 @@
-* [Home](/)
-	* [Guide](guide.md "The greatest in the world")
+[Introduccion](intro.md)
+[Especificaciones API](apiSpecs.md)
